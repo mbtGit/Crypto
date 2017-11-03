@@ -1,0 +1,28 @@
+.amChartSocial {
+  width: 100%;
+  height: 100%
+  ;
+}
+
+.currencyRow {
+	height: 200px;
+	margin-top: 50px;
+}
+
+.currencyData {
+	float:left;
+	margin-top: 20px;
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	color: #444;
+	padding: 0px 0px 6px 0px;
+	font-size: 50px;
+	line-height: 50px;
+	letter-spacing: -2px;
+	font-weight: bold;
+}
+
+.currencyImg {
+	float:left;
+	max-width: 50px;
+    max-height: 50px;
+}
