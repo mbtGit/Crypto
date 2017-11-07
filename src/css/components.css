@@ -12,17 +12,32 @@
 .currencyData {
 	float:left;
 	margin-top: 20px;
-	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-family: Roboto;
 	color: #444;
 	padding: 0px 0px 6px 0px;
-	font-size: 50px;
+	font-size: 1vw;
 	line-height: 50px;
 	letter-spacing: -2px;
 	font-weight: bold;
 }
 
-.currencyImg {
+.currencyName {
 	float:left;
-	max-width: 50px;
-    max-height: 50px;
+	font-size: 2vw;
+}
+
+.currencyImg {
+	float:right;
+	padding: 0px;
+}
+
+.currencyDetails {
+	width: 50%;
+	float:left;
+	font-family: Roboto;
+	color: #31708f;
+	font-size: 1vw;
+	line-height: 50px;
+	letter-spacing: -2px;
+	font-weight: bold;
 }
